@@ -20,9 +20,9 @@ favorite_list = [
     "CCTV17",
     "海丰",
 ]
-favorite_page_num = 8
-default_page_num = 8
-urls_limit = 15
+favorite_page_num = 5
+default_page_num = 5
+urls_limit = 5
 response_time_weight = 0.5
 resolution_weight = 0.5
 recent_days = 35
